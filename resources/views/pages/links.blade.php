@@ -252,7 +252,15 @@ var loggedin = "{{ Auth::check() }}";
 					Info: <a target="_blank" href="https://www.ebi.ac.uk/eqtl/">https://www.ebi.ac.uk/eqtl/</a> <br/>
 					Data: <a target="_blank" href="https://github.com/eQTL-Catalogue/eQTL-Catalogue-resources/blob/master/tabix/tabix_ftp_paths.tsv">https://github.com/eQTL-Catalogue/eQTL-Catalogue-resources/blob/master/tabix/tabix_ftp_paths.tsv</a>
 				</td>
-				<td>16 March 2020</td>
+			</tr>
+			<tr>
+				<td>EyeGEx</td>
+				<td>cis-eQTLs from retina.</td>
+				<td>
+					Info: <a target="_blank" href="https://gtexportal.org/home/datasets">https://gtexportal.org/home/datasets</a> <br/>
+					Data: <a href="https://storage.googleapis.com/gtex_external_datasets/eyegex_data/single_tissue_eqtl_data/Retina.nominal.eQTLs.with_thresholds.tar">https://storage.googleapis.com/gtex_external_datasets/eyegex_data/single_tissue_eqtl_data/Retina.nominal.eQTLs.with_thresholds.tar</a>
+				</td>
+				<td>06 October 2021</td>
 				<td>
 					See tutorial <a target="_blank" href="https://fuma.ctglab.nl/tutorial#eQTLs">https://fuma.ctglab.nl/tutorial#eQTLs</a>.
 				</td>

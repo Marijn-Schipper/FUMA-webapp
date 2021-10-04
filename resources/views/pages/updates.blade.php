@@ -19,6 +19,13 @@
 	</thead>
     <tbody>
       <tr>
+        <td>06 October 2021</td>
+        <td>v1.3.7</td>
+        <td>
+          Add EyeGEx eQTL data.
+        </td>
+      </tr>
+      <tr>
         <td>18 September 2021</td>
         <td>v1.3.6d</td>
         <td>
